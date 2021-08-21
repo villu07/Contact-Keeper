@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://vishal123:vishalmohi123@contactkeeper.n4koc.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtScrect": "screct"
+}
